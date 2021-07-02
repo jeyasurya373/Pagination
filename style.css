@@ -1,0 +1,15 @@
+.container{
+    
+    font-size:x-large;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+.sec:hover{
+    background-color:tomato;
+    color: white;
+    
+}
